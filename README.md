@@ -71,9 +71,9 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/erik.lopezzz77/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="erik.lopezzz77" height="30" width="40" /></a>
-  <a href="espinozañopezerik@gmail.com" target="_blank"><img align="center"
+  <a href="espinozalopezerik@gmail.com" target="_blank"><img align="center"
       src="https://cdn-icons-png.flaticon.com/512/281/281769.png"
-      alt="espinozañopezerik@gmail.com" height="30" width="40" /></a>
+      alt="espinozalopezerik@gmail.com" height="30" width="40" /></a>
 </p>
 <br><br>
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
