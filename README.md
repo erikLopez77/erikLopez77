@@ -36,8 +36,8 @@ Here are some ideas to get you started:
   </tr>
 </table>
   <!-- tools -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...*** <br> <br>
 <div>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...*** <br> <br>
   <img height="50" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img height="50" title="Eclipse" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" /> 
   <img height="50" title="Express" 
@@ -58,20 +58,43 @@ Here are some ideas to get you started:
   <img height="50" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img height="50" title="XML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-plain.svg" />
 </div
+<br> <br> 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<!--   <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a> -->
+  <a href="https://www.facebook.com/erick.espinozalopez.58" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Erik Lopez" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/erik.lopezzz77/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="erik.lopezzz77" height="30" width="40" /></a>
+  <a href="espinozañopezerik@gmail.com" target="_blank"><img align="center"
+      src="https://cdn-icons-png.flaticon.com/512/281/281769.png"
+      alt="espinozañopezerik@gmail.com" height="30" width="40" /></a>
+</p>
 <br><br>
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikLopez77&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=erikLopez77&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
-          
+<br><br>
+
+
+### 🔥 Contributions
+<br>
+<!--snake-->      
 <div align="center">
   <a href="https://github.com/erikLopez77/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" 
+         alt="snake" width="600" /></a>
 </div>
-          
-        
-          
-          
+
+  ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=erikLopez77&theme=github-compact)
+
+### 🔥Featured projects
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=erikLopez77&repo=puntoVenta&theme=vision-friendly-dark)](https://github.com/erikLopez77/puntoVenta/settings)
+         
